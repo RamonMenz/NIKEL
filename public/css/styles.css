@@ -34,6 +34,7 @@ header {
 
 .coins {
     position: absolute;
+    z-index: -1;
     bottom: 100px;
 }
 
